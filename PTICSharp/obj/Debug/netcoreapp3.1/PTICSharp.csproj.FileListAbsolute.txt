@@ -1,0 +1,13 @@
+C:\Users\patya\OneDrive\Documentos\PTICSharp\bin\Debug\netcoreapp3.1\PTICSharp.exe
+C:\Users\patya\OneDrive\Documentos\PTICSharp\bin\Debug\netcoreapp3.1\PTICSharp.deps.json
+C:\Users\patya\OneDrive\Documentos\PTICSharp\bin\Debug\netcoreapp3.1\PTICSharp.runtimeconfig.json
+C:\Users\patya\OneDrive\Documentos\PTICSharp\bin\Debug\netcoreapp3.1\PTICSharp.runtimeconfig.dev.json
+C:\Users\patya\OneDrive\Documentos\PTICSharp\bin\Debug\netcoreapp3.1\PTICSharp.dll
+C:\Users\patya\OneDrive\Documentos\PTICSharp\bin\Debug\netcoreapp3.1\PTICSharp.pdb
+C:\Users\patya\OneDrive\Documentos\PTICSharp\obj\Debug\netcoreapp3.1\PTICSharp.csprojAssemblyReference.cache
+C:\Users\patya\OneDrive\Documentos\PTICSharp\obj\Debug\netcoreapp3.1\PTICSharp.AssemblyInfoInputs.cache
+C:\Users\patya\OneDrive\Documentos\PTICSharp\obj\Debug\netcoreapp3.1\PTICSharp.AssemblyInfo.cs
+C:\Users\patya\OneDrive\Documentos\PTICSharp\obj\Debug\netcoreapp3.1\PTICSharp.csproj.CoreCompileInputs.cache
+C:\Users\patya\OneDrive\Documentos\PTICSharp\obj\Debug\netcoreapp3.1\PTICSharp.dll
+C:\Users\patya\OneDrive\Documentos\PTICSharp\obj\Debug\netcoreapp3.1\PTICSharp.pdb
+C:\Users\patya\OneDrive\Documentos\PTICSharp\obj\Debug\netcoreapp3.1\PTICSharp.genruntimeconfig.cache
